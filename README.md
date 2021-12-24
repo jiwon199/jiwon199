@@ -1,10 +1,11 @@
-### Hello World
-Hi, I'm [Windard](https://windard.com) 👋
-
+### Jiwon's Profile
+<!-- Hi, I'm [Windard](https://windard.com) 👋
+-->
+Hi, I'm Jiwon 👋
 ![age](https://img.shields.io/badge/age-24-blue)
 ![focus](https://img.shields.io/badge/focus-android-brightgreen)
 ![living](https://img.shields.io/badge/living-seoul-3c9)
-![visitors](https://visitor-badge.herokuapp.com/badge?page_id=windard.github.profile)
+![visitors](https://visitor-badge.herokuapp.com/badge?page_id=jiwon.github.profile)
 
 <br />
 
