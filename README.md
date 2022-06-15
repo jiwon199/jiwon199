@@ -10,6 +10,8 @@
 - Age: 24
 - Univ: Ewha Women's University
 - Major:  Computer Engineering
+- Blogs: [Jiwon's Velog](https://velog.io/@jiwon_choi)
+ 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 <br/>
@@ -18,8 +20,6 @@
 ![unity](	https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 ## Github Stats
 [![jiwon199's github stats](https://github-readme-stats.vercel.app/api?username=jiwon199&count_private=true&hide=stars&count_private=true)](https://github.com/jiwon199)
-## Blogs
-[Jiwon's Velog](https://velog.io/@jiwon_choi)
  
  
 
