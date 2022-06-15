@@ -18,6 +18,7 @@
 ![unity](	https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 ## Github Stats
 [![jiwon199's github stats](https://github-readme-stats.vercel.app/api?username=jiwon199&count_private=true&hide=stars&count_private=true)](https://github.com/jiwon199)
+![기술블로그 바로가기]([https://img.shields.io/badge/age-24-blue](https://velog.io/@jiwon_choi)
  
 
 
