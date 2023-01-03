@@ -7,7 +7,7 @@
 -->
 ## About Me
 - Name: Jiwon Choi
-- Age: 24
+- Birth: 1999.12.01
 - Univ: Ewha Women's University
 - Major:  Computer Engineering
 - Blogs: [Jiwon's Tistory](https://g1etistory.tistory.com/)
