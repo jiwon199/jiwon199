@@ -19,7 +19,7 @@
  
 ![unity](	https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 ## Github Stats
-[![jiwon199's github stats](https://github-readme-stats.vercel.app/api?username=jiwon199&count_private=true&hide=stars&count_private=true)](https://github.com/jiwon199)
+[![jiwon199's github stats](https://github-readme-stats.vercel.app/api?username=jiwon199&count_private=true  )](https://github.com/jiwon199)
  
  
 
