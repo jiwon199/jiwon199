@@ -10,6 +10,7 @@
 - Birth: 1999.12.01
 - Univ: Ewha Women's University
 - Major:  Computer Engineering
+- Company: Hyundai Autoever
 - Blogs: [Jiwon's Tistory](https://g1etistory.tistory.com/)
  
 ## Tech Stack
